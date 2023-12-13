@@ -1,6 +1,4 @@
-num = int(input("ingrese un numero cualquiera diferente de cero:"))
-
-
+num = int(input("ingrese un numero cualquiera diferente de cero :"))
 
 def factorial(num):
     factorial = 1
@@ -8,7 +6,6 @@ def factorial(num):
         factorial = factorial *iter
     
     return factorial
-
 
 num_factorial = factorial(num)
 

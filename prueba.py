@@ -9,6 +9,10 @@ def factorial(num):
 
 num_factorial = factorial(num)
 
+
+
+
+
 if num%2 == 0:
     print(f"{num} es un numero par y su factorial es {num_factorial}")
 else:

@@ -1,2 +1,2 @@
-for value in range(0,10,1):
+for value in range(0,24,1):
     print(value)

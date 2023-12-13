@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 num = int(input("ingrese un numero cualquiera diferente de cero:"))
-=======
-num = int(input("ingrese un numero cualquiera : "))
+
 
 
 def factorial(num):
@@ -12,9 +10,7 @@ def factorial(num):
     return factorial
 
 
-
 num_factorial = factorial(num)
->>>>>>> factorial
 
 if num%2 == 0:
     print(f"{num} es un numero par y su factorial es {num_factorial}")

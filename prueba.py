@@ -1,4 +1,4 @@
-num = int(input("ingrese un numero cualquiera diferente de cero y que sea positivo:"))
+num = int(input("ingrese un numero positivo diferente de cero:"))
 
 def factorial(num):
     factorial = 1

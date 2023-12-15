@@ -1,6 +1,6 @@
 num = int(input("ingrese un numero positivo diferente de cero :"))
 
-def factorial(num):
+def factorial(num): #funcion para calcular el falctorial de un numero
     factorial = 1
     for iter in range(num,1,-1):
         factorial = factorial *iter

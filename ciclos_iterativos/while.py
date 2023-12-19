@@ -8,7 +8,7 @@ while cont != 200:  #contador hasta 200
 
 #mostrar una imagen cualquiera 
     
-img = Image.open("D:\Documentos Danny\Platzi\Git y Github\proyecto1\ciclos_iterativos\imagen.jpeg")
+img = Image.open("D:\Documentos Danny\Platzi\Git y Github\proyecto1\ciclos_iterativos\Danny_bici.jpg")
 img.show()
 
 

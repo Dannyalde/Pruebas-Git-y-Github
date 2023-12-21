@@ -2,7 +2,7 @@ from PIL import Image
 
 
 cont = 0
-while cont != 200:  #contador hasta 200 por medio de un while 
+while cont != 200:  #contador hasta 200 por medio de un while
     print(cont)
     cont = cont + 1
 

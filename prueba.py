@@ -7,7 +7,7 @@ def factorial(num): #funcion para calcular el falctorial de un numero
     
     return factorial
 
-num_factorial = factorial(num)
+num_factorial = factorial(num) #Se llama a la funcion factorial
 
 if num%2 == 0:
     print(f"{num} es un numero par y su factorial es {num_factorial}")

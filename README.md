@@ -7,3 +7,5 @@
 > Trabajaras con repositorios locales y remotos 
 
 > Disponible para todas las edades 
+
+> Ideal para el mundo de la programaciòn 

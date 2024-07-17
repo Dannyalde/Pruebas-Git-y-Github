@@ -29,7 +29,7 @@ while True:
     elif pc == "piedra":
       print(f"has elegido {user}, tú contrincante ha elegido {pc}, haz ganado :D")
       vic_user +=1
-  elif user == "tijeras":
+  elif user == "tijeras" or "tijera":
     if pc == "piedra":
       print(f"has elegido {user}, tú contrincante ha elegido {pc}, haz perdido :c")
       vic_pc +=1
